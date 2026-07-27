@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ExplorerOfWorlds/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/ExplorerOfWorlds/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ExplorerOfWorlds/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/ExplorerOfWorlds/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
